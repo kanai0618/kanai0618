@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Satyajit, Currently working in Microsoft as a Senior Developer.
+- 👋 Hi, I’m Satyajit, Currently working in Microsoft as a Developer.
 - 👀 I’m interested in backend technologies mostly java, python.
 - 💞️ I’m looking to collaborate on any backend development.
 - 📫 How to reach me satyajit0618@gmail.com
